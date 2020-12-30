@@ -1,2 +1,2 @@
 # appcrew
-Django powered AppCrew
+AppCrew Website powered by Django.
